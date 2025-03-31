@@ -1,3 +1,3 @@
-hi, this is app for android TV box
+HI, This is app for android TV box
 
-rom mods for vnpt smartbox 2 on repo
+Rom Mod for vnpt smartbox 2 on repo
